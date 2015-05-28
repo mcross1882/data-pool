@@ -1,0 +1,9 @@
+[package]
+
+name = "data-pool"
+version = "0.0.1"
+authors = [ "Matthew Cross <blacklightgfx@gmail.com>" ]
+
+[dependencies]
+time = "*"
+hyper = "0.5.1"
